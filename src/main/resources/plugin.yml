@@ -1,0 +1,7 @@
+name: HardcorePlugin
+version: '${project.version}'
+main: team.sensivity.hardcoreplugin.HardcorePlugin
+api-version: 1.19
+prefix: [ TeamSensivity ]
+authors: [ michel929 ]
+website: https://minecraft.sensivity.team
